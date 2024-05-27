@@ -12,3 +12,9 @@ This code block with a language set for syntax highlighting works fine:
 ```julia
 a ÷ b
 ```
+
+but this one, without a language set, fails:
+
+```
+a ÷ b
+```
